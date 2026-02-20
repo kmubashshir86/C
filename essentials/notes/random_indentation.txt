@@ -1,0 +1,15 @@
+random indentation are alloweds
+
+
+eg:-
+#include <stdio.h>
+
+int main(void)
+{int x=5;
+
+{	int y=0:
+	char n='A'
+}
+
+
+return 0;}

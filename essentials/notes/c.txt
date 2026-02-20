@@ -1,0 +1,4 @@
+mingw bundle of use full tools like make gcc(gnu compiler collection) gdb (gnu debugger)
+
+gcc => compiler for c(.c)
+g++ => compiler for c++(.cpp)

@@ -1,0 +1,16 @@
+DOUBLE >> FLOAT >> INT
+
+// meaning agar lets say koi bhi airthmetic operation hota hai ( binary operation)
+	* homogenous types ke liye
+
+	   int (operation) int = int
+	   float (operation) float = float
+	   double (operation) double = double
+
+
+	* hetrogeneous types ke liye
+
+	  int (operation) float = float
+	  int (operation) double = double
+	  float (operation) double = double
+	  

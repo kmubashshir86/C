@@ -1,0 +1,31 @@
+so int is of size 4 bytes same for long int in window while long long int is of 8 bytes in window in linux x64 long int is of 8 bytes int of 4 bytes and long int of 8bytes
+
+%zu for size_t in if not supported %linux
+
+{% in c and python work diffrently
+-7%2==1 in python
+7%-2==-1 in python
+use base sign
+while in c -7%2==-1}
+
+
+switch case practice needed
+
+// var number swap by +,-  and \,* and ^(xor)
+
+//fibonnaci
+
+//gcdorhcf and lcm
+
+//reversing a number
+
+pow return double so use %lf or %f  very imp
+1
+int k=pow(2,3);
+printf("%d",k);>>>9
+2
+printf("%d",pow(2,3));>>>0
+3
+printf("%lf",pow(2,3));>>>8.0000..
+4
+printf("%f",pow(2,3));>>>8.0000..
