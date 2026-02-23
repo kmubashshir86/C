@@ -1,1 +1,0 @@
-if format specifier is wrong 100 program will execute into unexpected behaviour;
